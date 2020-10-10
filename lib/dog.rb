@@ -35,4 +35,8 @@ class Dog
     }
     self.new(attributes_hash)
   end
+  
+  def self.find_by_name(name)
+    
+  end
 end
