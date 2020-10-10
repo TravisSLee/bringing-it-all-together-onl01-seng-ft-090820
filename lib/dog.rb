@@ -90,4 +90,8 @@ class Dog
       end
       new_dog
   end
+  
+  def update
+    
+  end
 end
